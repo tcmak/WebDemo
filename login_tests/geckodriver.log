@@ -1,0 +1,10 @@
+1619375549692	geckodriver	INFO	Listening on 127.0.0.1:62229
+1619375550415	mozprofile::profile	INFO	Using profile path /var/folders/_j/wyk25d6d2hj018_5zv752t0r0000gn/T/rust_mozprofile.SWlWmWYuO1aw
+1619375550430	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1619375550479	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62238
+1619375558338	Marionette	INFO	Marionette enabled
+1619375566029	Marionette	INFO	Listening on port 2828
+1619375624080	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
